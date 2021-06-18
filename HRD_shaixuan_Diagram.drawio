@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T06:20:58.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="68Ej9bjnunfSwIwyfeXA" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T06:43:26.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="N24oRzOJu3piNjGrmwBq" version="14.7.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="942" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,29 +12,35 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="中国人群数据库准备" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" width="760" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-20" source="dNxyNK7c78bLwvsdeMH5-23" target="dNxyNK7c78bLwvsdeMH5-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-23" value="chinamap&lt;br&gt;v38" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
-          <mxGeometry x="40" y="30" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-24" value="chinamap_hg19" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#333333;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
-          <mxGeometry x="240" y="30" width="150" height="60" as="geometry" />
+          <mxGeometry x="40" y="25" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oZ7MGca2h98DrxrfC1Vk-4" value="139614070" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="50" y="100" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oZ7MGca2h98DrxrfC1Vk-3" value="92.24%(128778331)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
-          <mxGeometry x="350" y="100" width="130" height="20" as="geometry" />
+          <mxGeometry x="360" y="90" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EEybTYk9H9bPagcmRRxZ-14" value="hg19data" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="330" y="20" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EEybTYk9H9bPagcmRRxZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="dNxyNK7c78bLwvsdeMH5-24" target="EEybTYk9H9bPagcmRRxZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-24" value="hg19版本转化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#333333;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
+          <mxGeometry x="164" y="25" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-20" source="dNxyNK7c78bLwvsdeMH5-23" target="dNxyNK7c78bLwvsdeMH5-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="功能区过滤" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="140" width="760" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-26" value="exon/MAF值/indel过滤" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#333333;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry x="250" y="30" width="130" height="60" as="geometry" />
+          <mxGeometry x="305" y="30" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oZ7MGca2h98DrxrfC1Vk-5" value="filterindel" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry x="140" y="30" width="60" height="60" as="geometry" />
+          <mxGeometry x="120" y="30" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oZ7MGca2h98DrxrfC1Vk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-21" source="dNxyNK7c78bLwvsdeMH5-26" target="oZ7MGca2h98DrxrfC1Vk-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -46,9 +52,6 @@
         </mxCell>
         <mxCell id="EEybTYk9H9bPagcmRRxZ-7" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;MAF值0.3-0.7是为了尽可能的保持后续计算过程中有尽可能多的人群高杂合位点，如果有杂合消失或染色体不稳定，可以更精确的识别出来。&lt;br&gt;&lt;/font&gt;&lt;span&gt;indel是探针设计比较复杂，有&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;SNP&lt;/span&gt;&lt;span&gt;位点的话直接用&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;SNP&lt;/span&gt;&lt;span&gt;位点比较节省，计算&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;HRD&lt;/span&gt;&lt;span&gt;时也是算的&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;SNP&lt;/span&gt;&lt;span&gt;，不是&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;indel&lt;/span&gt;&lt;span&gt;。&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="440" y="20" width="300" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="oZ7MGca2h98DrxrfC1Vk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="dNxyNK7c78bLwvsdeMH5-24" target="dNxyNK7c78bLwvsdeMH5-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oZ7MGca2h98DrxrfC1Vk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="oZ7MGca2h98DrxrfC1Vk-5" target="dNxyNK7c78bLwvsdeMH5-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -66,7 +69,7 @@
           <mxGeometry x="410" y="35" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oZ7MGca2h98DrxrfC1Vk-8" value="74.37%(1349085)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
-          <mxGeometry x="310" y="120" width="140" height="20" as="geometry" />
+          <mxGeometry x="340" y="110" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oZ7MGca2h98DrxrfC1Vk-11" value="CNV区域过滤" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="430" width="760" height="170" as="geometry" />
@@ -83,29 +86,38 @@
         <mxCell id="oZ7MGca2h98DrxrfC1Vk-15" value="95.39%(1286868)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="oZ7MGca2h98DrxrfC1Vk-11" vertex="1">
           <mxGeometry x="230" y="120" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZ7MGca2h98DrxrfC1Vk-23" value="3.83%(49323)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="oZ7MGca2h98DrxrfC1Vk-11" vertex="1">
-          <mxGeometry y="110" width="130" height="20" as="geometry" />
+        <mxCell id="EEybTYk9H9bPagcmRRxZ-12" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;健康人群中&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;CNV&lt;/span&gt;&lt;span&gt;区域会产生倍性误差，并且影响后续&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;HRD中CN部分&lt;/span&gt;&lt;span&gt;计算，需要对照矫正，排除这部分可以提升检测的准确性，并且后续在无对照和做标准对照基线上会有优势。&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;p class=&quot;MsoListParagraph&quot; style=&quot;margin-left: 21.0pt ; text-indent: 0cm ; line-height: 150%&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oZ7MGca2h98DrxrfC1Vk-11">
+          <mxGeometry x="540" y="40" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oZ7MGca2h98DrxrfC1Vk-24" value="中国人群LD高频点计算并调换" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="600" width="760" height="170" as="geometry" />
         </mxCell>
         <mxCell id="oZ7MGca2h98DrxrfC1Vk-27" value="maijing_hg10_pos" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="oZ7MGca2h98DrxrfC1Vk-24" vertex="1">
-          <mxGeometry x="230" y="35" width="110" height="70" as="geometry" />
+          <mxGeometry x="330" y="50" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oZ7MGca2h98DrxrfC1Vk-28" value="46093&amp;nbsp; &amp;nbsp;GC 42.6%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="oZ7MGca2h98DrxrfC1Vk-24" vertex="1">
-          <mxGeometry x="300" y="105" width="140" height="20" as="geometry" />
+        <mxCell id="EEybTYk9H9bPagcmRRxZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="oZ7MGca2h98DrxrfC1Vk-24" source="oZ7MGca2h98DrxrfC1Vk-20" target="oZ7MGca2h98DrxrfC1Vk-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ7MGca2h98DrxrfC1Vk-20" value="50KB挑一个点,LD计算与调换" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="oZ7MGca2h98DrxrfC1Vk-24" vertex="1">
+          <mxGeometry x="60" y="55" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ7MGca2h98DrxrfC1Vk-28" value="3.58%（46093）&amp;nbsp; &amp;nbsp;GC 42.6%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="oZ7MGca2h98DrxrfC1Vk-24" vertex="1">
+          <mxGeometry x="274" y="130" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oZ7MGca2h98DrxrfC1Vk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="dNxyNK7c78bLwvsdeMH5-36" target="oZ7MGca2h98DrxrfC1Vk-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oZ7MGca2h98DrxrfC1Vk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oZ7MGca2h98DrxrfC1Vk-20" target="oZ7MGca2h98DrxrfC1Vk-27" edge="1">
+        <mxCell id="oZ7MGca2h98DrxrfC1Vk-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-19" source="oZ7MGca2h98DrxrfC1Vk-14" target="oZ7MGca2h98DrxrfC1Vk-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oZ7MGca2h98DrxrfC1Vk-20" value="50KB挑一个点" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="210" y="590" width="85" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="oZ7MGca2h98DrxrfC1Vk-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oZ7MGca2h98DrxrfC1Vk-14" target="oZ7MGca2h98DrxrfC1Vk-20" edge="1">
+        <mxCell id="EEybTYk9H9bPagcmRRxZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="EEybTYk9H9bPagcmRRxZ-14" target="dNxyNK7c78bLwvsdeMH5-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EEybTYk9H9bPagcmRRxZ-9" value="HRD探针筛选基础流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="610" y="160" width="206" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EEybTYk9H9bPagcmRRxZ-11" value="&lt;font style=&quot;font-size: 12px&quot;&gt;repeat区&lt;span style=&quot;text-indent: 0cm&quot;&gt;排除是因为这部分区域在&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;text-indent: 0cm&quot;&gt;NGS&lt;/span&gt;&lt;span style=&quot;text-indent: 0cm&quot;&gt;检测中属于不好检测的地方，另外，针对这个思路，也进行了进一步优化，扩展为去除染色体黑盒区的位点，染色体黑盒区为&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;text-indent: 0cm&quot;&gt;NGS&lt;/span&gt;&lt;span style=&quot;text-indent: 0cm&quot;&gt;难度较大和较差的区域。&lt;/span&gt;&lt;/font&gt;&lt;p class=&quot;MsoListParagraph&quot; style=&quot;margin-left: 21.0pt ; text-indent: 0cm ; line-height: 150%&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="420" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
