@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T06:43:26.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="N24oRzOJu3piNjGrmwBq" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T06:49:51.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="wBgBSp6qWLr-aOjAlve9" version="14.7.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="942" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,6 +103,9 @@
         </mxCell>
         <mxCell id="oZ7MGca2h98DrxrfC1Vk-28" value="3.58%（46093）&amp;nbsp; &amp;nbsp;GC 42.6%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="oZ7MGca2h98DrxrfC1Vk-24" vertex="1">
           <mxGeometry x="274" y="130" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EEybTYk9H9bPagcmRRxZ-21" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;LD&lt;/span&gt;&lt;span&gt;位点调换是因为，基因组中，有的SNP位点是连锁一起出现，连锁比率较高的话，没必要两个点一起出现在&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;panel&lt;/span&gt;&lt;span&gt;中，一个位点即可表证彼此。可以增加位点和&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;panel&lt;/span&gt;&lt;span&gt;的多样性。&lt;br&gt;&lt;/span&gt;&lt;/font&gt;初始4万位点用来调换有些少，增加一个9-10万位点版本的，从中优选一个较少位点数即可很好检测HRD结果的版本再。&lt;br&gt;&lt;p class=&quot;MsoListParagraph&quot; style=&quot;margin-left: 21.0pt ; text-indent: 0cm ; line-height: 150%&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oZ7MGca2h98DrxrfC1Vk-24">
+          <mxGeometry x="500" y="55" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oZ7MGca2h98DrxrfC1Vk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="dNxyNK7c78bLwvsdeMH5-36" target="oZ7MGca2h98DrxrfC1Vk-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
