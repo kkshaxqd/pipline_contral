@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T06:49:51.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="wBgBSp6qWLr-aOjAlve9" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-22T03:50:18.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="tAQ9_vuA7q6PiUjIMVD5" version="14.7.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="942" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,6 +52,9 @@
         </mxCell>
         <mxCell id="EEybTYk9H9bPagcmRRxZ-7" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;MAF值0.3-0.7是为了尽可能的保持后续计算过程中有尽可能多的人群高杂合位点，如果有杂合消失或染色体不稳定，可以更精确的识别出来。&lt;br&gt;&lt;/font&gt;&lt;span&gt;indel是探针设计比较复杂，有&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;SNP&lt;/span&gt;&lt;span&gt;位点的话直接用&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;SNP&lt;/span&gt;&lt;span&gt;位点比较节省，计算&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;HRD&lt;/span&gt;&lt;span&gt;时也是算的&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;SNP&lt;/span&gt;&lt;span&gt;，不是&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;indel&lt;/span&gt;&lt;span&gt;。&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="440" y="20" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EEybTYk9H9bPagcmRRxZ-22" value="99.47%(1814071/1823771)不过滤exon区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="160" y="90" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oZ7MGca2h98DrxrfC1Vk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="oZ7MGca2h98DrxrfC1Vk-5" target="dNxyNK7c78bLwvsdeMH5-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
