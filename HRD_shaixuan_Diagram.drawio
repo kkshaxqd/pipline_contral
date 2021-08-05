@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T06:21:44.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="3ZgftgEKXfKtdXVOwmVA" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T06:22:06.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="NHJPILO4rw2fZAC5J3Uj" version="14.9.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="942" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
         <mxCell id="kbRfKmwg6n5tPR5WaEZ9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kbRfKmwg6n5tPR5WaEZ9-6" target="kbRfKmwg6n5tPR5WaEZ9-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kbRfKmwg6n5tPR5WaEZ9-6" value="1. 创建运行所需SNPGC文件-SnpGcCorrections_GRCh37.tsv&lt;br&gt;2. 参考研究脚本，确定相应运行所需参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kbRfKmwg6n5tPR5WaEZ9-6" value="1. 创建运行所需SNPGC文件-SnpGcCorrections_GRCh37.tsv&lt;br&gt;2. 参考研究脚本，确定相应运行所需参数等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="1470" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kbRfKmwg6n5tPR5WaEZ9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.556;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 1;endArrow=classic;endFill=1;" edge="1" parent="1" source="kbRfKmwg6n5tPR5WaEZ9-8" target="kbRfKmwg6n5tPR5WaEZ9-6">
