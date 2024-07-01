@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T12:52:24.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="1sLfk8AvOHPYPRzbrGs9" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T12:57:42.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="y44_X89-wgcnBJhfrWMV" version="24.6.4" type="github">
   <diagram name="第 1 页" id="p23nzwewCbX1eRrqPVwt">
     <mxGraphModel dx="2074" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,6 +195,9 @@
         </mxCell>
         <mxCell id="3xAxlQf88jidDhbGyubO-95" value="微信小程序中——报告查询" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;labelBackgroundColor=none;fontColor=#080808;" vertex="1" parent="3xAxlQf88jidDhbGyubO-94">
           <mxGeometry x="30" y="40" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3xAxlQf88jidDhbGyubO-109" value="虚线变为实线/模块颜色改变等作为该阶段完成标识" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1200" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
