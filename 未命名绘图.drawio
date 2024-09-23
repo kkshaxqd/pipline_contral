@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-23T07:47:48.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Wv1pbMi2jhNCjgeo-Lsw" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-23T09:10:45.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="OS1WTGeu1kBwgzV1QEXt" version="24.7.1" type="github">
   <diagram name="第 1 页" id="QVBnynI42UWNxAdyY9l1">
     <mxGraphModel dx="2369" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -476,7 +476,7 @@
         <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZDJ4VKsGL7rv84Cdhuyg-143" target="ZDJ4VKsGL7rv84Cdhuyg-145">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-143" value="确定KS编号，冻存盒编号，位置，可用量，动容次数，知情同意书；" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;textShadow=0;" vertex="1" parent="1">
+        <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-143" value="确定KS编号，冻存盒编号，位置，可用量，冻融次数，知情同意书；" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="1910" width="390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZDJ4VKsGL7rv84Cdhuyg-145" target="ZDJ4VKsGL7rv84Cdhuyg-149">
@@ -488,7 +488,7 @@
         <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZDJ4VKsGL7rv84Cdhuyg-147" target="ZDJ4VKsGL7rv84Cdhuyg-152">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-147" value="确定KS编号，冻存盒编号，位置，可用量，动容次数，知情同意书；" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;textShadow=0;" vertex="1" parent="1">
+        <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-147" value="确定KS编号，冻存盒编号，位置，可用量，冻融次数，知情同意书；" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="2100" width="390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-149" value="入实际存储库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;textShadow=0;" vertex="1" parent="1">
