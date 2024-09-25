@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-24T12:59:07.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="9LEzJ-2_xMO5M7N2nlLw" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-25T02:30:55.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="YZXAHv4E4h5xxlVDHo9L" version="24.7.1" type="github">
   <diagram name="第 1 页" id="QVBnynI42UWNxAdyY9l1">
     <mxGraphModel dx="3122" dy="1313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1140,7 +1140,7 @@
         <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-494" value="入库" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="2325" y="1240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-496" value="2-8°冰箱+全血样本" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontStyle=1;align=right;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-496" value="-80°冰箱+全血样本" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontStyle=1;align=right;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="509" y="2775" width="200" height="305" as="geometry" />
         </mxCell>
         <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-505" value="7*7冻存架" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontStyle=1;align=right;" vertex="1" parent="1">
@@ -1263,7 +1263,7 @@
         <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-539" value="需3台 -80°冰箱保存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="3240" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-541" value="需2台 2-8°冰箱保存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;textShadow=0;" vertex="1" parent="1">
+        <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-541" value="需2台 -80°冰箱保存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="3320" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-543" value="需1台 -80°冰箱保存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;textShadow=0;" vertex="1" parent="1">
