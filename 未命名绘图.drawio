@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.7.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="QVBnynI42UWNxAdyY9l1">
     <mxGraphModel dx="2261" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1504,7 +1504,7 @@
         <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-645" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="ZDJ4VKsGL7rv84Cdhuyg-646" target="ZDJ4VKsGL7rv84Cdhuyg-649" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZDJ4VKsGL7rv84Cdhuyg-646" target="h-O3j2x5-WE-DyWHi750-3">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZDJ4VKsGL7rv84Cdhuyg-646" target="h-O3j2x5-WE-DyWHi750-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-646" value="样本是否&lt;div&gt;已经检测过&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
@@ -1513,7 +1513,7 @@
         <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-647" value="其他未选择样本，过滤0" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="2975" y="350" width="175" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZDJ4VKsGL7rv84Cdhuyg-648" target="h-O3j2x5-WE-DyWHi750-10">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZDJ4VKsGL7rv84Cdhuyg-648" target="h-O3j2x5-WE-DyWHi750-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-648" value="最终检测样本10149例&lt;div&gt;有知情同意书的10081例；&lt;/div&gt;&lt;div&gt;暂无的68例；&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
@@ -1888,104 +1888,189 @@
         <mxCell id="ZDJ4VKsGL7rv84Cdhuyg-781" value="样本入库单" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="800" y="5910" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-O3j2x5-WE-DyWHi750-1" target="h-O3j2x5-WE-DyWHi750-2">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="h-O3j2x5-WE-DyWHi750-1" target="h-O3j2x5-WE-DyWHi750-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-O3j2x5-WE-DyWHi750-1" target="ZDJ4VKsGL7rv84Cdhuyg-648">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h-O3j2x5-WE-DyWHi750-1" target="ZDJ4VKsGL7rv84Cdhuyg-648" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-1" value="是否有&lt;div&gt;知情同意书&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-1" value="是否有&lt;div&gt;知情同意书&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="2835" y="690" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-2" value="进行记录，不管有无都不过滤" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-2" value="进行记录，不管有无都不过滤" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="2997.5" y="705" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-O3j2x5-WE-DyWHi750-3" target="h-O3j2x5-WE-DyWHi750-1">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h-O3j2x5-WE-DyWHi750-3" target="h-O3j2x5-WE-DyWHi750-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-3" value="&lt;span style=&quot;background-color: initial;&quot;&gt;未检测过的样本&lt;/span&gt;(10149例)" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-3" value="&lt;span style=&quot;background-color: initial;&quot;&gt;未检测过的样本&lt;/span&gt;(10149例)" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="2800" y="620" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-10" value="送检" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-10" value="送检" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="3060" y="780" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-O3j2x5-WE-DyWHi750-14" target="h-O3j2x5-WE-DyWHi750-17">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h-O3j2x5-WE-DyWHi750-14" target="h-O3j2x5-WE-DyWHi750-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-14" value="昆山白膜层样本&lt;div&gt;(46842例)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;textShadow=0;" vertex="1" parent="1">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-14" value="昆山白膜层样本&lt;div&gt;(46842例)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="3255" y="90" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="h-O3j2x5-WE-DyWHi750-17" target="h-O3j2x5-WE-DyWHi750-18">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" parent="1" source="h-O3j2x5-WE-DyWHi750-17" target="h-O3j2x5-WE-DyWHi750-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="h-O3j2x5-WE-DyWHi750-17" target="h-O3j2x5-WE-DyWHi750-19">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" parent="1" source="h-O3j2x5-WE-DyWHi750-17" target="h-O3j2x5-WE-DyWHi750-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-17" value="是否有&lt;div&gt;GI编号&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-17" value="是否有&lt;div&gt;GI编号&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="3280" y="160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-18" value="没有GI编号样本，过滤23" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-18" value="没有GI编号样本，过滤23" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="3420" y="180" width="175" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-O3j2x5-WE-DyWHi750-19" target="h-O3j2x5-WE-DyWHi750-23">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h-O3j2x5-WE-DyWHi750-19" target="h-O3j2x5-WE-DyWHi750-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-19" value="具有GI编号样本(46819例)" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-19" value="具有GI编号样本(46819例)" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="3260" y="266" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="h-O3j2x5-WE-DyWHi750-23" target="h-O3j2x5-WE-DyWHi750-24">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" parent="1" source="h-O3j2x5-WE-DyWHi750-23" target="h-O3j2x5-WE-DyWHi750-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="h-O3j2x5-WE-DyWHi750-23" target="h-O3j2x5-WE-DyWHi750-25">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" parent="1" source="h-O3j2x5-WE-DyWHi750-23" target="h-O3j2x5-WE-DyWHi750-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-23" value="是否有&lt;div&gt;重复样本&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-23" value="是否有&lt;div&gt;重复样本&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="3280" y="332.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-O3j2x5-WE-DyWHi750-24" target="h-O3j2x5-WE-DyWHi750-29">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h-O3j2x5-WE-DyWHi750-24" target="h-O3j2x5-WE-DyWHi750-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-24" value="&lt;span style=&quot;background-color: initial;&quot;&gt;非重复样本&lt;/span&gt;(46529例)" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-24" value="&lt;span style=&quot;background-color: initial;&quot;&gt;非重复样本&lt;/span&gt;(46529例)" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="3245" y="440" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-25" value="其他未选择样本，过滤290" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-25" value="其他未选择样本，过滤290" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="3420" y="352.5" width="175" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="h-O3j2x5-WE-DyWHi750-29" target="h-O3j2x5-WE-DyWHi750-30">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="h-O3j2x5-WE-DyWHi750-29" target="h-O3j2x5-WE-DyWHi750-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-O3j2x5-WE-DyWHi750-29" target="h-O3j2x5-WE-DyWHi750-35">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h-O3j2x5-WE-DyWHi750-29" target="h-O3j2x5-WE-DyWHi750-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-29" value="样本是否&lt;div&gt;已经检测过&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-29" value="样本是否&lt;div&gt;已经检测过&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="3265" y="516.25" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-30" value="已检测过的样本，过滤0" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-30" value="已检测过的样本，过滤0" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="3435" y="536.25" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-O3j2x5-WE-DyWHi750-32" target="h-O3j2x5-WE-DyWHi750-33">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="h-O3j2x5-WE-DyWHi750-32" target="h-O3j2x5-WE-DyWHi750-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-O3j2x5-WE-DyWHi750-32" target="h-O3j2x5-WE-DyWHi750-37">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h-O3j2x5-WE-DyWHi750-32" target="h-O3j2x5-WE-DyWHi750-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-32" value="是否有&lt;div&gt;知情同意书&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-32" value="是否有&lt;div&gt;知情同意书&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="3280" y="693.75" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-33" value="进行记录，不管有无都不过滤" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-33" value="进行记录，不管有无都不过滤" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="3442.5" y="708.75" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-O3j2x5-WE-DyWHi750-35" target="h-O3j2x5-WE-DyWHi750-32">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h-O3j2x5-WE-DyWHi750-35" target="h-O3j2x5-WE-DyWHi750-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-35" value="&lt;span style=&quot;background-color: initial;&quot;&gt;未检测过的样本&lt;/span&gt;(46529例)" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-35" value="&lt;span style=&quot;background-color: initial;&quot;&gt;未检测过的样本&lt;/span&gt;(46529例)" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="3245" y="623.75" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-O3j2x5-WE-DyWHi750-37" target="h-O3j2x5-WE-DyWHi750-10">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="h-O3j2x5-WE-DyWHi750-37" target="h-O3j2x5-WE-DyWHi750-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-O3j2x5-WE-DyWHi750-37" value="最终检测样本46529例&lt;div&gt;有知情同意书的44040例；&lt;/div&gt;&lt;div&gt;暂无的2489例；&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="h-O3j2x5-WE-DyWHi750-37" value="最终检测样本46529例&lt;div&gt;有知情同意书的44040例；&lt;/div&gt;&lt;div&gt;暂无的2489例；&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="3215" y="790" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqaFJZL9gm_NK3klWt2Y-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3795" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-3" value="昆山广实采集样本&lt;div&gt;(6457例白膜层样本+237全血样本+1血浆样本)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="3660" y="90" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqaFJZL9gm_NK3klWt2Y-4" target="rqaFJZL9gm_NK3klWt2Y-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqaFJZL9gm_NK3klWt2Y-4" target="rqaFJZL9gm_NK3klWt2Y-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-4" value="是否有&lt;div&gt;GI编号&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="3755" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-7" value="没有GI编号样本，过滤0" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="3880" y="180" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqaFJZL9gm_NK3klWt2Y-9" target="rqaFJZL9gm_NK3klWt2Y-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-9" value="具有GI编号样本&lt;div&gt;(6695例)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="3735" y="266" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="rqaFJZL9gm_NK3klWt2Y-14" target="rqaFJZL9gm_NK3klWt2Y-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="rqaFJZL9gm_NK3klWt2Y-14" target="rqaFJZL9gm_NK3klWt2Y-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-14" value="是否有&lt;div&gt;重复样本&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="3755" y="342.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqaFJZL9gm_NK3klWt2Y-16" target="rqaFJZL9gm_NK3klWt2Y-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-16" value="&lt;span style=&quot;background-color: initial;&quot;&gt;非重复样本&lt;/span&gt;(6691例)" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="3720" y="450" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-17" value="其他未选择样本，过滤4" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="3895" y="362.5" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="rqaFJZL9gm_NK3klWt2Y-20" target="rqaFJZL9gm_NK3klWt2Y-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqaFJZL9gm_NK3klWt2Y-20" target="rqaFJZL9gm_NK3klWt2Y-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-20" value="样本是否&lt;div&gt;已经检测过&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="3740" y="526.25" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-21" value="已检测过的样本，过滤0" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="3910" y="546.25" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqaFJZL9gm_NK3klWt2Y-24" target="rqaFJZL9gm_NK3klWt2Y-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqaFJZL9gm_NK3klWt2Y-24" target="rqaFJZL9gm_NK3klWt2Y-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-24" value="是否有&lt;div&gt;知情同意书&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="3755" y="703.75" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-25" value="进行记录，不管有无都不过滤" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="3917.5" y="718.75" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqaFJZL9gm_NK3klWt2Y-27" target="rqaFJZL9gm_NK3klWt2Y-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-27" value="&lt;span style=&quot;background-color: initial;&quot;&gt;未检测过的样本&lt;/span&gt;(6691例)" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="3720" y="633.75" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqaFJZL9gm_NK3klWt2Y-28" target="h-O3j2x5-WE-DyWHi750-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3795" y="880" />
+              <mxPoint x="3100" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rqaFJZL9gm_NK3klWt2Y-28" value="最终检测样本6690例&lt;div&gt;有知情同意书的6564例；&lt;/div&gt;&lt;div&gt;暂无的126例；&lt;br&gt;1例只有血浆的单独样本，且无知情同意书，过滤&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="3660" y="800" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
